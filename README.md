@@ -1,1 +1,1 @@
-# phpdicordtokenraider
+手間になるけどcomposerをディレクトリ通り配置してください
